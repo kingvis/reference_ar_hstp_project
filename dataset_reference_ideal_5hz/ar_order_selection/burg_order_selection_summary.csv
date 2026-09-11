@@ -1,0 +1,4 @@
+windowDuration_s,windowLength_pts,healthyTrainingSourceRuns,probeWindows,probeSignalFits,selectedBurgOrder,selectionMethod,globalAICcSummaryFile
+30,150,60,600,3600,29,lowest order within 2 median delta-AICc units of the minimum,burg_aicc_summary_030s.csv
+60,300,60,600,3600,30,lowest order within 2 median delta-AICc units of the minimum,burg_aicc_summary_060s.csv
+120,600,60,600,3600,30,lowest order within 2 median delta-AICc units of the minimum,burg_aicc_summary_120s.csv
