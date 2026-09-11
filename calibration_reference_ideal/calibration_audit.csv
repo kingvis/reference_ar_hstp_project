@@ -1,0 +1,3 @@
+runID,faultName,severity,Hs,Tp,phaseSeed,csvPath,expectedDamping_NsPm,estimatedDamping_NsPm,relativeDampingError,forceLawMaxError_N,forceLawRelativeError,powerConsistencyError_W
+1,healthy,1,1.6,7.2,101,C:\Users\Vissal\Downloads\New_WEC_Fault_detection\WEC-Sim\demostage\Matlab\reference_ar_hstp_project\calibration_reference_ideal\run00001_seed101_sev100_Hs160_Tp720.csv,1200000,1200000,1.16415321826935e-15,2.21189111471176e-09,2.42270523225719e-15,0
+2,pto_damping_loss,0.6,1.6,7.2,101,C:\Users\Vissal\Downloads\New_WEC_Fault_detection\WEC-Sim\demostage\Matlab\reference_ar_hstp_project\calibration_reference_ideal\run00002_seed101_sev060_Hs160_Tp720.csv,720000,719999.999999999,1.94025536378225e-15,1.86264514923096e-09,2.81974900533857e-15,0
