@@ -1,0 +1,4 @@
+windowDuration_s,windowLength_pts,step_pts,totalWindows,trainWindows,validationWindows,testWindows,indexFile
+30,150,75,62500,37500,12500,12500,window_index_030s.csv
+60,300,150,31000,18600,6200,6200,window_index_060s.csv
+120,600,300,15000,9000,3000,3000,window_index_120s.csv
